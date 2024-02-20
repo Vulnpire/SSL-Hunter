@@ -37,6 +37,7 @@ echo $IPs > ips.txt
 ## Requirements:
 
 ```
+masscan
 Flask
 pymongo
 bson
