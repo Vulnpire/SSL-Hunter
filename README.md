@@ -84,7 +84,7 @@ SSL Hunter offers extensive customization options, allowing users to tailor scan
 
 Python script for interacting with a database to store SSL scan results obtained by SSL Hunter. It connects to a database server, creates tables for storing scan data, and inserts scan results into the database.
 
-- Key Features
+## Key Features
 
 - Database Integration: Establishes connections to MongoDB databases, ensuring reliable storage and retrieval of scan results.
 - Automated Setup: Streamlines the setup of MongoDB databases and table creation, eliminating manual configuration complexities.
