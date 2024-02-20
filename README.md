@@ -26,7 +26,7 @@ cd ./ssl-hunter
 - IPs to scan:
 
 `
-echo '3.0.0.0/15' > ips.txt
+echo $IPs > ips.txt
 `
 
 - Execute the Script:
