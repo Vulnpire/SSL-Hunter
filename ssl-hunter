@@ -1,5 +1,7 @@
 #!/bin/python3
 
+# You can get all the ip ranges from https://kaeferjaeger.gay/ip-ranges/all/ipv4.txt
+
 import re
 import ssl
 import os
