@@ -14,7 +14,7 @@ SSL Hunter is a powerful Python script designed for Bug Bounty Hunters and cyber
 
 - Clone the Repository:
 `
-git clone https://github.com/byt3scr1b3/ssl-hunter.git
+git clone https://github.com/Vulnpire/ssl-hunter.git
 `
 
 - Navigate to the Project Directory:
